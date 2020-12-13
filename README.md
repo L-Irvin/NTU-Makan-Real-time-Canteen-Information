@@ -4,9 +4,9 @@ This is a group assignment of NTU CZ1003: Introduction to Computational Thinking
 
 ## Dependencies
 
-'To be added'
+`To be added`
 
 ## Setup
 
-'To be added'
+`To be added`
 

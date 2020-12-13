@@ -2,11 +2,17 @@
 
 This is a group assignment of NTU CZ1003: Introduction to Computational Thinking, by Lab Group FS8 Team 6.
 
+The main objective of this project is to create an application which allows users to navigate food options in NTU North Spine.
+
 ## Dependencies
 
-`To be added`
+- `Python`
+- `python-tk`
 
 ## Setup
 
-`To be added`
+1. Install all the required dependencies. _We may also create a virtual environment for this purpose_.
+1. Make sure `canteendatabase.py` and images in `assets` folder are in the same working directory as `main.py`.
+1. Run `main.py` from the Python shell.
+*Note that the application will open in a new window*
 
